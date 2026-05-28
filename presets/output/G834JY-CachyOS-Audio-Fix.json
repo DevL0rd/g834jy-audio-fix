@@ -26,7 +26,7 @@
           "slope": "12 dB/oct",
           "solo": false,
           "mute": false,
-          "gain": -3.5,
+          "gain": 0.0,
           "frequency": 40.0,
           "q": 0.707,
           "width": 4.0
@@ -37,7 +37,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": -3.5,
+          "gain": 0.0,
           "frequency": 70.0,
           "q": 1.05,
           "width": 4.0
@@ -48,7 +48,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": -3.5,
+          "gain": 0.0,
           "frequency": 110.0,
           "q": 1.0,
           "width": 4.0
@@ -59,7 +59,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": -2.5,
+          "gain": 0.0,
           "frequency": 170.0,
           "q": 1.0,
           "width": 4.0
@@ -70,7 +70,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": -2.0,
+          "gain": 0.0,
           "frequency": 260.0,
           "q": 1.0,
           "width": 4.0
@@ -81,7 +81,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": -1.0,
+          "gain": 1.5,
           "frequency": 430.0,
           "q": 1.0,
           "width": 4.0
@@ -92,7 +92,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 0.0,
+          "gain": 2.7,
           "frequency": 720.0,
           "q": 1.0,
           "width": 4.0
@@ -103,7 +103,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 1.5,
+          "gain": 3.9,
           "frequency": 1200.0,
           "q": 1.05,
           "width": 4.0
@@ -114,7 +114,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 3.5,
+          "gain": 4.6,
           "frequency": 2100.0,
           "q": 1.0,
           "width": 4.0
@@ -125,7 +125,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 5.5,
+          "gain": 5.6,
           "frequency": 3400.0,
           "q": 1.0,
           "width": 4.0
@@ -136,7 +136,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 7.0,
+          "gain": 6.6,
           "frequency": 5300.0,
           "q": 1.0,
           "width": 4.0
@@ -147,7 +147,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 9.0,
+          "gain": 7.5,
           "frequency": 8200.0,
           "q": 1.0,
           "width": 4.0
@@ -158,7 +158,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 10.0,
+          "gain": 8.5,
           "frequency": 12500.0,
           "q": 0.9,
           "width": 4.0
@@ -169,7 +169,7 @@
           "slope": "12 dB/oct",
           "solo": false,
           "mute": false,
-          "gain": 10.5,
+          "gain": 9.9,
           "frequency": 18500.0,
           "q": 0.707,
           "width": 4.0
@@ -182,7 +182,7 @@
           "slope": "12 dB/oct",
           "solo": false,
           "mute": false,
-          "gain": -3.5,
+          "gain": 0.0,
           "frequency": 40.0,
           "q": 0.707,
           "width": 4.0
@@ -193,7 +193,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": -3.5,
+          "gain": 0.0,
           "frequency": 70.0,
           "q": 1.05,
           "width": 4.0
@@ -204,7 +204,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": -3.5,
+          "gain": 0.0,
           "frequency": 110.0,
           "q": 1.0,
           "width": 4.0
@@ -215,7 +215,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": -2.5,
+          "gain": 0.0,
           "frequency": 170.0,
           "q": 1.0,
           "width": 4.0
@@ -226,7 +226,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": -2.0,
+          "gain": 0.0,
           "frequency": 260.0,
           "q": 1.0,
           "width": 4.0
@@ -237,7 +237,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": -1.0,
+          "gain": 1.5,
           "frequency": 430.0,
           "q": 1.0,
           "width": 4.0
@@ -248,7 +248,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 0.0,
+          "gain": 2.7,
           "frequency": 720.0,
           "q": 1.0,
           "width": 4.0
@@ -259,7 +259,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 1.5,
+          "gain": 3.9,
           "frequency": 1200.0,
           "q": 1.05,
           "width": 4.0
@@ -270,7 +270,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 3.5,
+          "gain": 4.6,
           "frequency": 2100.0,
           "q": 1.0,
           "width": 4.0
@@ -281,7 +281,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 5.5,
+          "gain": 5.6,
           "frequency": 3400.0,
           "q": 1.0,
           "width": 4.0
@@ -292,7 +292,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 7.0,
+          "gain": 6.6,
           "frequency": 5300.0,
           "q": 1.0,
           "width": 4.0
@@ -303,7 +303,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 9.0,
+          "gain": 7.5,
           "frequency": 8200.0,
           "q": 1.0,
           "width": 4.0
@@ -314,7 +314,7 @@
           "slope": "x1",
           "solo": false,
           "mute": false,
-          "gain": 10.0,
+          "gain": 8.5,
           "frequency": 12500.0,
           "q": 0.9,
           "width": 4.0
@@ -325,7 +325,7 @@
           "slope": "12 dB/oct",
           "solo": false,
           "mute": false,
-          "gain": 10.5,
+          "gain": 9.9,
           "frequency": 18500.0,
           "q": 0.707,
           "width": 4.0
@@ -335,7 +335,7 @@
     "multiband_compressor#0": {
       "bypass": false,
       "input-gain": 0.0,
-      "output-gain": 4.0,
+      "output-gain": 0.0,
       "dry": -80.01,
       "wet": 0.0,
       "compressor-mode": "Modern",
@@ -690,7 +690,7 @@
     "multiband_compressor#1": {
       "bypass": false,
       "input-gain": 0.0,
-      "output-gain": 4.5,
+      "output-gain": 0.0,
       "dry": -80.01,
       "wet": 0.0,
       "compressor-mode": "Modern",
